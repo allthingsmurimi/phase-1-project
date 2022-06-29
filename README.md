@@ -8,6 +8,7 @@ Next to tuggle between quotes
 Twitter button to post the quotes
   
   ## Live link 
+  https://github.com/allthingsmurimi/phase-1-project
   
 
  
